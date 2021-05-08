@@ -15,4 +15,4 @@ for guesstaken in range(1,7):
 if guess==secretnumber:
     print('goodjob'+str(guesstaken))
 else:
-    print('nope the number i was thinking was' +str(guesstaken)+'guesse')
+    print('nope the number i was thinking was' +str(guesstaken)+'guesses')
